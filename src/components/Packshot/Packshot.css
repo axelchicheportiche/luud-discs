@@ -1,0 +1,19 @@
+.packshot-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    gap: 120px;
+    align-self: stretch;
+    flex-wrap: wrap;
+}
+
+.packshot1 {
+    width: 369px;
+    /* height: 322px; */
+}
+
+.packshot2 {
+    width: 369px;
+    /* height: 324px; */
+}
