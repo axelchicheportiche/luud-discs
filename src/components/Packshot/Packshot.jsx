@@ -6,10 +6,10 @@ import './Packshot.css';
 
 const Packshot = () => {
     return (
-      <header className="packshot-container">
+      <div className="packshot-container">
         <img src={packshot1} alt="packshot-front" className="packshot1" />
         <img src={packshot2} alt="packshot-back" className="packshot2" />
-      </header>
+      </div>
     );
   };
   

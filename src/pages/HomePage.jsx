@@ -3,6 +3,9 @@ import './HomePage.css';
 import Header from '../components/Header/Header';
 import Packshot from '../components/Packshot/Packshot';
 import ButtonBuy from '../components/Button/ButtonBuy';
+import LogoLuud from '../components/LogoLuud/LogoLuud';
+import AboutUs from '../components/AboutUs/AboutUs';
+
 // import Gallery from '../components/Gallery/Gallery';
 
 const HomePage = () => {
@@ -11,6 +14,8 @@ const HomePage = () => {
       <Header />
       <Packshot />
       <ButtonBuy />
+      <LogoLuud />
+      <AboutUs />
       {/* Ajoute d'autres composants ici */}
     </div>
   );
