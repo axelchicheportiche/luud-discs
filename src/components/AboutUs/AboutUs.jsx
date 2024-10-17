@@ -13,7 +13,7 @@ const AboutUs = () => {
             <a href="https://luuddiscs.bandcamp.com" target="_blank">Bandcamp</a>
             <a href="https://www.discogs.com/fr/label/1183599-L%C3%BC%C3%BCd-Discs?page=1" target="_blank">Discogs</a>
             <a href="https://soundcloud.com/luuddiscs" target="_blank">Soundcloud</a>
-            <a href="https://www.instagram.com/luuddiscs" target="_blank">Instagram</a>
+            <a href="https://www.instagram.com/luud.discs" target="_blank">Instagram</a>
             <a href="https://www.facebook.com/luuddiscs" target="_blank">Facebook</a>
         </div>
         <h3>Contact Us</h3>
