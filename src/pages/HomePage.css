@@ -1,5 +1,6 @@
 .home-container {
     display: flex;
+    font-family: Inter;
     flex-direction: column;
     padding: 54px 226px;
     gap: 98px;
@@ -7,3 +8,8 @@
     color: white;
   }
 
+  @media (max-width: 768px) {
+    .home-container {
+      padding: 54px 50px; 
+    }
+  }

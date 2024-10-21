@@ -4,6 +4,7 @@
     justify-content: center;
     align-items: flex-start;
     align-content: flex-start;
+    font-family: Inter;
     gap: 98px;
     flex-wrap: wrap;
 }
@@ -19,9 +20,20 @@
 .release-name {
     color: #FFF;
     text-align: center;
-    font-size: 17px;
+    font-size: 15px;
+    font-style: normal;
+    font-weight: 900;
+    line-height: 20.582px;
 }
 
 .release-cover {
     width: 200px;
 }
+
+.tracklist {
+    font-size: 13px;
+    font-style: normal;
+    font-weight: 300;
+    line-height: 121.071%; /* 15.739px */
+}
+

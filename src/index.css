@@ -3,6 +3,18 @@ body {
   background-color: black;
 }
 
+a {
+  text-decoration: none;
+  color: white;
+  text-shadow: 0 0 30px rgb(255, 255, 255); 
+  cursor: pointer;
+}
+
+a:hover {
+  text-shadow: 0 0 8px rgba(255, 255, 255); 
+  cursor: pointer; 
+}
+
 /* :root {
   font-family: Inter, system-ui, Avenir, Helvetica, Arial, sans-serif;
   line-height: 1.5;

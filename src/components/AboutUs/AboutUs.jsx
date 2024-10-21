@@ -6,7 +6,7 @@ const AboutUs = () => {
     return (
       <div className="about-us">
         <h1>About Us</h1>
-        <p><strong>Lüüd Discs</strong> is an electronic music label founded by KHALK in 2016, dedicated to exploring house, deep house, and break sounds. The label stands out for its artistic independence, supporting emerging artists through original productions and creative remixes.
+        <p className='bio'><strong>Lüüd Discs</strong> is an electronic music label founded by KHALK in 2016, dedicated to exploring house, deep house, and break sounds. The label stands out for its artistic independence, supporting emerging artists through original productions and creative remixes.
         In 2023, Lüüd Discs launched <strong>Düül Scsid</strong>, a sub-label that focuses on more IDM-oriented sounds, while also offering digital and CD releases, providing a different approach from Lüüd Discs. This sub-label explores more abstract and experimental soundscapes, continually pushing the boundaries of musical creation.</p>
         <h1>Find Us Online</h1>
         <div class="links">

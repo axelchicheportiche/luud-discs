@@ -17,6 +17,7 @@ const HomePage = () => {
       <ButtonBuy />
       <LogoLuud />
       <AboutUs />
+      <h1>Listen To Us</h1>
       <ListenToUs />
       {/* Ajoute d'autres composants ici */}
     </div>
