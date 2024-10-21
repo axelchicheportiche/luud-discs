@@ -5,6 +5,7 @@ import Packshot from '../components/Packshot/Packshot';
 import ButtonBuy from '../components/Button/ButtonBuy';
 import LogoLuud from '../components/LogoLuud/LogoLuud';
 import AboutUs from '../components/AboutUs/AboutUs';
+import ListenToUs from '../components/ListenToUs/ListenToUs';
 
 // import Gallery from '../components/Gallery/Gallery';
 
@@ -16,7 +17,7 @@ const HomePage = () => {
       <ButtonBuy />
       <LogoLuud />
       <AboutUs />
-      <h1>Listen to us</h1>
+      <ListenToUs />
       {/* Ajoute d'autres composants ici */}
     </div>
   );
